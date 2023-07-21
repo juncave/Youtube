@@ -1,0 +1,80 @@
+body {
+  height: 5500px;
+}
+/* .left-section */
+.header {
+  height: 55px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+
+  background-color: #212121FF;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #4D4D4D;
+}
+.left-section {
+  display: flex;
+  align-items: center;
+}
+.hamburger-menu {
+  height: 24px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.youtube-logo {
+  height: 70px;
+}
+
+/* .middle-section */
+.middle-section {
+
+}
+.search-bar {
+  
+}
+.search-button {
+
+}
+.search-icon {
+
+}
+.voice-search-button {
+
+}
+.voice-search-icon {
+
+}
+
+/* .right-section */
+.right-section {
+  
+}
+.upload-icon-container {
+
+}
+.upload-icon {
+
+}
+.youtube-apps-icon {
+
+} 
+.notifications-icon-container {
+
+}
+.notifications-icon {
+
+}
+.notifications-count {
+
+}
+.current-user-picture {
+
+}
